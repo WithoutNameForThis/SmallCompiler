@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="编译实验.GrammarTable" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAYAAAAAAAAAAAQAAAAAAAAAAABAA=</HashCode>
+      <FileName>GrammarTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.GrammarTree" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAIAEAAAAAAAAAAAIAAEAAAAAAACAAAA=</HashCode>
+      <FileName>GrammarTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.GrammarItem" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBFgAIAAACAACBAUIAQAlQAAEAAYkAAAiAABABaAJAA=</HashCode>
+      <FileName>GrammarTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.DeclearBlock" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAABCA=</HashCode>
+      <FileName>DeclearBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.KeyWordTable" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KeyWordTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.MLList" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAEAAAAAAAAAAAAAAQAAAAAAEAAAAQAAAAAAAAAAI=</HashCode>
+      <FileName>MLList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.MLanguage" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAAAABAAAAAEAQACAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MLList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.Program" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.VarTable" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAQDAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>VarTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.VarItem" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>VarTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.Word" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAABQAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>WordList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="编译实验.WordList" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAgACAAAAIAAAAAkAAAAABAAAAAAEAAAIAAA=</HashCode>
+      <FileName>WordList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
